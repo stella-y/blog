@@ -7,11 +7,11 @@ module.exports = {
   siteMetadata: {
     url,
     siteUrl: url,
-    title: 'Blog by John Doe',
+    title: 'Blog of Stella',
     subtitle:
-      'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+      'DataScientist Stella 입니다',
     copyright: '© All rights reserved.',
-    disqusShortname: '',
+    disqusShortname: 'stella-y-blog',
     menu: [
       {
         label: 'Articles',
@@ -20,20 +20,17 @@ module.exports = {
       {
         label: 'About me',
         path: '/about/',
-      },
-      {
-        label: 'Contact me',
-        path: '/contact/',
-      },
+      }
     ],
     author: {
-      name: 'John Doe',
-      email: '#',
+      name: 'Stella Y',
+      email: 'wizbe28@gmail.com',
       telegram: '#',
       twitter: '#',
-      github: '#',
+      github: 'stella-y',
       rss: '#',
-      vk: '#',
+      linkedin: 'stella-youngju',
+      vk: '#'
     },
   },
   plugins: [
