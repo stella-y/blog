@@ -7,7 +7,7 @@ module.exports = {
   siteMetadata: {
     url,
     siteUrl: url,
-    title: 'Blog of Stella',
+    title: 'Blog by Stella',
     subtitle:
       'DataScientist Stella 입니다',
     copyright: '© All rights reserved.',
